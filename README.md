@@ -16,14 +16,14 @@
 ### iScreenSaver - A Screensaver for Mac OSX 10.8+
 
 A magic screensaver, a lot of fun. Built-in More than 30 screensaver. You can also customized your own screensaver.
-[[中文说明点击这里]](https://github.com/titman/iScreenSaver/blob/master/README(Chinese).md)
+[[中文说明点击这里]](https://github.com/libaibuzai/iScreenSaver/blob/master/README(Chinese).md)
 
 <p align="center"><img width="320" align="center" alt="Screensaver settings" src="https://raw.githubusercontent.com/titman/Pictures-of-the-warehouse/master/iScreenSaver/Settings.png" /></p>
 
 
 ### Installation on Mac OSX
 
-1. **[Download the Latest release (iScreenSaver.x.xx.saver.zip)](https://github.com/titman/iScreenSaver/releases/)**
+1. **[Download the Latest release (iScreenSaver.x.xx.saver.zip)](https://github.com/libaibuzai/iScreenSaver/releases/)**
 2. Unzip the downloaded file.
 3. Open the `iScreenSaver.saver` and install it.
 4. Open up `System Preferences > Desktop and Screensaver > Screensaver`
@@ -69,15 +69,15 @@ Please try open up `System Preferences > Security & Privacy > Open Anyway`.
 Please wait a few seconds to load some necessary javascript file.
 > May I found some other amazing html file？
 
-Please enter [this page](https://github.com/titman/iScreenSaver/issues) to communicate together, or enter [CodePen](http://codepen.io/) search for your favorite animation.
+Please enter [this page](https://github.com/libaibuzai/iScreenSaver/issues) to communicate together, or enter [CodePen](http://codepen.io/) search for your favorite animation.
 > What is it principle？
 
 iScreenSaver load the html file using the deep optimization WebView, high performance and the number of frames have safeguard.
 
 ### Community
 
-- **Find a bug?** [Open an issue](https://github.com/titman/iScreenSaver/issues/new). Try to be as specific as possible.
-- **Have a feature request** [Open an issue](https://github.com/titman/iScreenSaver/issues/new). Tell me why this feature would be useful, and why you and others would want it.
+- **Find a bug?** [Open an issue](https://github.com/libaibuzai/iScreenSaver/issues/new). Try to be as specific as possible.
+- **Have a feature request** [Open an issue](https://github.com/libaibuzai/iScreenSaver/issues/new). Tell me why this feature would be useful, and why you and others would want it.
 
 
 ### Change log

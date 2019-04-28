@@ -22,7 +22,7 @@
 
 ### 如何安装
 
-1. **[下载最新的安装包 (名字一般为iScreenSaver.x.xx.saver.zip)](https://github.com/titman/iScreenSaver/releases/)**
+1. **[下载最新的安装包 (名字一般为iScreenSaver.x.xx.saver.zip)](https://github.com/libaibuzai/iScreenSaver/releases/)**
 2. 解压文件
 3. 双击安装
 4. 打开 `系统偏好设置 > 桌面与屏幕保护程序 > 屏幕保护程序`
@@ -66,15 +66,15 @@
 请等待几秒钟，因为程序需要加载一些必要的js文件.
 > 我能找到其他酷炫的屏幕保护程序文件吗?
 
-请进入[反馈区](https://github.com/titman/iScreenSaver/issues) 一起讨论, 或者进入[CodePen](http://codepen.io/)搜索你喜欢的动画
+请进入[反馈区](https://github.com/libaibuzai/iScreenSaver/issues) 一起讨论, 或者进入[CodePen](http://codepen.io/)搜索你喜欢的动画
 > 它的原理是什么?
 
 iScreenSaver使用经过深度优化的WebView来加载HTML文件, 高性能并且帧数有保证, 你也不必担心会耗电, 它与平常的保护程序没什么两样.
 
 ### Community
 
-- **发现Bug?** [Open an issue](https://github.com/titman/iScreenSaver/issues/new). Try to be as specific as possible.
-- **想增加一些功能?** [Open an issue](https://github.com/titman/iScreenSaver/issues/new). Tell me why this feature would be useful, and why you and others would want it.
+- **发现Bug?** [Open an issue](https://github.com/libaibuzai/iScreenSaver/issues/new). Try to be as specific as possible.
+- **想增加一些功能?** [Open an issue](https://github.com/libaibuzai/iScreenSaver/issues/new). Tell me why this feature would be useful, and why you and others would want it.
 
 
 ### Change log
@@ -84,5 +84,5 @@ iScreenSaver使用经过深度优化的WebView来加载HTML文件, 高性能并�
 
 
 ### License
-
+本项目是**协助传播**
 如果我侵犯了你的合法权益, 请及时联系我!
